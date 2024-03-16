@@ -1,6 +1,6 @@
 // Greeting
 function greet(name) {
-    return "H45rtfrt, " + name + "!";
+    return "H45rtfrt", " + name + "!";
 }
 
 // Adding two numbers
