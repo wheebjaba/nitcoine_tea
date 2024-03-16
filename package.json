@@ -1,0 +1,26 @@
+{
+  "name": "nitcoine_tea",
+  "version": "1.0.0",
+  "description": "worl tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheebjaba/nitcoine_tea.git"
+  },
+  "dependencies": {
+    "Hdolger_opera": "1.0.0",
+    "teammmmUkra": "1.0.0",
+    "tea_emotio45HE": "1.0.0",
+    "bolillo_tea_aps": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wheebjaba/nitcoine_tea/issues"
+  },
+  "homepage": "https://github.com/wheebjaba/nitcoine_tea#readme"
+}
